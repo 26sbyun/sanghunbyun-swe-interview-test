@@ -17,7 +17,7 @@ Install Node.js and npm on your machine.
 ### Frontend Set-Up
 1. Navigate to the Frontend directory: sanghunbyun-swe-interview-test/StarterCode/frontend
 2. Install neccessary packages by running "npm install".
-3. Launch the server with "npm start". This opens a web browser at http://localhost:3000 displaying a list of six cards. 
+3. Launch the server with "npm start". Open a web browser at http://localhost:3000 to see the list of six product cards. 
 
 ### Additional Notes
 - Deleting products on the front end also deletes them from the backend; to retrieve deleted products, restart the backend server. 
